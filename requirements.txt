@@ -1,0 +1,10 @@
+boto3
+psycopg2-binary
+pandas
+XlsxWriter
+scikit-learn
+jupyter
+matplotlib
+seaborn
+reportlab
+openpyxl
